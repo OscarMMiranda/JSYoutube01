@@ -34,3 +34,15 @@ body h1{
     
     
 }
+
+.imagen01{
+ display: block;
+ width: 100px;
+}
+
+div:hover
+{
+    
+    background: fixed blue;
+    width: auto;
+}
